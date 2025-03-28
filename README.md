@@ -50,11 +50,7 @@
 ### Data Visualizations
 #### Sales Highlights
 
-<img width="1283" alt="image" src="https://github.com/user-attachments/assets/be5476b6-951e-44f9-ad4b-a54098b01249" />
-
 #### Sales Trends
-
-<img width="1292" alt="image" src="https://github.com/user-attachments/assets/fa281526-075e-4686-b2a0-d6a4b7933bd3" />
 
 # 5. Key insights discovered
 ### Sale by Country
